@@ -1,4 +1,4 @@
-# simple-2048-game
+# simple-snake-game
 > A simple clone of the Snake game. Made with Java Swing, AWT
 
 
